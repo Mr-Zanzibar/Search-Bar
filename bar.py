@@ -9,7 +9,6 @@ chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
 win = tk.Tk()
 font = "Arial"
 
-#Window Details
 win.title("Search Bar") #The Title of the program
 win.geometry("400x80") #The size of the application on start
 win.resizable(height=False, width=False)
